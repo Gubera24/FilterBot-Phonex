@@ -97,13 +97,13 @@ Read [this](https://github.com/PR0FESS0R-99/Filter-Bot/blob/Professor-99/variabl
 
 ### Deploy to
 
-<details><summary>Deploy To Rander</summary>
+<details><summary>Deploy To Render</summary>
 <br>
 <p><a href="https://youtu.be/hDGgPNgjo9o">
     Watch Deploying Tutorial...
 </a></p>
 
-<p><a href="https://render.com/deploy?repo=https://github.com/Pr0fess0r-99/FilterBot">
+<p><a href="https://render.com/deploy?repo=https://github.com/Gubera24/FilterBot-Phonex">
   <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy">
 </a></p>
 </details>
